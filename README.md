@@ -1,5 +1,7 @@
 # Data Analysis for "Mass spectrometry-based analysis of mitochondrial protein translocation mutants and interactome studies"
 
+[![DOI](https://zenodo.org/badge/757349371.svg)](https://zenodo.org/doi/10.5281/zenodo.10697422)
+
 This repository contasins the data analysis scripts referenced in the corresponding book chapter published in Methods in Enzymology (link to follow).
 
 ## How to run
